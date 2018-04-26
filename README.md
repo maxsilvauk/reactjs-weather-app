@@ -21,7 +21,7 @@
 
 ## Introduction
 
-A React 16.3.2 weather service application which consumes data from (http://api.openweathermap.org) an open source live weather REST API. This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app) which has been build by the ReactJS devs. The project makes use of [ES6](https://github.com/lukehoban/es6features) syntax features.
+A React 16.3.2 weather service application which consumes data from [Open Weather Maps](http://api.openweathermap.org) an open source live weather REST API. This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app) which has been built by the ReactJS devs. The project makes use of [ES6](https://github.com/lukehoban/es6features) syntax features.
 
 ## Built-With
 
@@ -65,11 +65,11 @@ http://localhost:8000
 ```
 yarn build
 ```
-* Navigate to build folder
+* Navigate to the build folder
 ```
 reactjs-weather-app/build
 ```
-* Test application with Jehst (Facebook testing suite build ontop of Jasmine) - Need to complete!!
+* Test application with Jest (Facebook testing suite built on Jasmine) - Need to complete!!
 ```
 yarn test 
 ```
