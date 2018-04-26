@@ -1,8 +1,8 @@
-<h1 align="center">Paxportal</h1>
+<h1 align="center">ReactJS Weather App</h1>
 <br>
 <p align="center">
   <a href="https://gitpoint.co/">
-    <img alt="Paxport" title="Paxport" src="https://commons.wikimedia.org/wiki/File:React-icon.svg" width="310">
+    <img alt="ReactJS" title="ReactJS" src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" width="310">
   </a>
 </p>
 <p align="center">
