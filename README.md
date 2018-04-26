@@ -32,6 +32,14 @@ A React 16.3.2 weather service application which consumes data from [Open Weathe
 
 ## Install 
 
+* Clone my Git <a href="https://github.com/maxsilvauk/reactjs-weather-app.git">repository</a> into your htdocs.
+```
+git clone https://github.com/maxsilvauk/reactjs-weather-app.git
+```
+* Move to the reactjs-weather-app root folder.
+```
+cd reactjs-weather-app
+```
 * Install <a href="https://itunes.apple.com/us/app/xcode/id497799835?mt=12">x-code</a>
 * Install homebrew
 ```
