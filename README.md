@@ -81,6 +81,3 @@ reactjs-weather-app/build
 ```
 yarn test 
 ```
-
-
-Note ** You can use NPM instead of Yarn if you wish! **
